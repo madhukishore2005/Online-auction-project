@@ -1,0 +1,17 @@
+.txtcol1{
+    color: red;
+}
+.txtcol2{
+    color: pink;
+}
+.dashboard-container {
+    margin-top: 100px; 
+    padding: 20px; 
+}
+img{
+    height: 250px;
+}
+.sign{
+    margin-top: 100px;
+    padding: 20px;
+  }
